@@ -1,0 +1,110 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="p9780062244512" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Howl's Moving Castle</dc:title>
+<dc:creator>Diana Wynne Jones</dc:creator>
+<dc:publisher>HarperCollins</dc:publisher>
+<dc:type>Text</dc:type>
+<dc:format>448 pages</dc:format>
+<dc:identifier id="p9780062244512">9780062244512</dc:identifier>
+<dc:rights>All rights reserved</dc:rights>
+<dc:language>en</dc:language>
+<meta content="my-cover-image" name="cover"/>
+<description xmlns="http://purl.org/dc/elements/1.1/">&lt;p&gt;Sophie has the great misfortune of being the eldest of three daughters, destined to fail miserably should she ever leave home to seek her fate. But when she unwittingly attracts the ire of the Witch of the Waste, Sophie finds herself under a horrid spell that transforms her into an old lady. Her only chance at breaking it lies in the ever-moving castle in the hills: the Wizard Howl's castle. To untangle the enchantment, Sophie must handle the heartless Howl, strike a bargain with a fire demon, and meet the Witch of the Waste head-on. Along the way, she discovers that there's far more to Howl&amp;#8212;and herself&amp;#8212;than first meets the eye.</description>
+</metadata>
+<manifest>
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="styles/stylesheet.css" id="stylesheet" media-type="text/css"/>
+<item href="page-template.xpgt" id="pt" media-type="application/vnd.adobe-page-template+xml"/>
+<item href="xhtml/Cover.html" id="Cover" media-type="application/xhtml+xml"/>
+<item href="xhtml/Title.html" id="Title" media-type="application/xhtml+xml"/>
+<item href="xhtml/Dedication.html" id="Dedication" media-type="application/xhtml+xml"/>
+<item href="xhtml/Credit.html" id="credit" media-type="application/xhtml+xml"/>
+<item href="xhtml/Contents.html" id="Contents" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter01.html" id="Chapter01" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter02.html" id="Chapter02" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter03.html" id="Chapter03" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter04.html" id="Chapter04" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter05.html" id="Chapter05" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter06.html" id="Chapter06" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter07.html" id="Chapter07" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter08.html" id="Chapter08" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter09.html" id="Chapter09" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter10.html" id="Chapter10" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter11.html" id="Chapter11" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter12.html" id="Chapter12" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter13.html" id="Chapter13" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter14.html" id="Chapter14" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter15.html" id="Chapter15" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter16.html" id="Chapter16" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter17.html" id="Chapter17" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter18.html" id="Chapter18" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter19.html" id="Chapter19" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter20.html" id="Chapter20" media-type="application/xhtml+xml"/>
+<item href="xhtml/Chapter21.html" id="Chapter21" media-type="application/xhtml+xml"/>
+<item href="xhtml/Backmatter.html" id="Backmatter" media-type="application/xhtml+xml"/>
+<item href="xhtml/Backmatter01.html" id="Backmatter01" media-type="application/xhtml+xml"/>
+<item href="xhtml/Backmatter03chapter01.html" id="Backmatter03chapter01" media-type="application/xhtml+xml"/>
+<item href="xhtml/Backmatter03.html" id="Backmatter03" media-type="application/xhtml+xml"/>
+<item href="xhtml/Backmatter04chapter01.html" id="Backmatter04chapter01" media-type="application/xhtml+xml"/>
+<item href="xhtml/Backmatter04.html" id="Backmatter04" media-type="application/xhtml+xml"/>
+<item href="xhtml/Backmatter05chapter01.html" id="Backmatter05chapter01" media-type="application/xhtml+xml"/>
+<item href="xhtml/Backmatter05.html" id="Backmatter05" media-type="application/xhtml+xml"/>
+<item href="xhtml/AbouttheAuthor.html" id="AbouttheAuthor" media-type="application/xhtml+xml"/>
+<item href="xhtml/Copyright.html" id="Copyright" media-type="application/xhtml+xml"/>
+<item href="xhtml/AboutthePublisher.html" id="AboutthePublisher" media-type="application/xhtml+xml"/>
+<item href="images/9780062244512_Cover.png" id="my-cover-image" media-type="image/png"/>
+<item href="images/9780062244512_Cover.jpg" id="cover-image" media-type="image/jpeg"/>
+<item href="images/copy.jpg" id="img1" media-type="image/jpeg"/>
+<item href="images/del.jpg" id="img2" media-type="image/jpeg"/>
+<item href="images/pub.jpg" id="img3" media-type="image/jpeg"/>
+<item href="images/title.jpg" id="title" media-type="image/jpeg"/>
+<item href="images/teasercover1.jpg" id="image2" media-type="image/jpeg"/>
+<item href="images/teasercover2.jpg" id="image4" media-type="image/jpeg"/>
+<item href="images/teasercover3.jpg" id="image5" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="Cover" linear="no"/>
+<itemref idref="Title"/>
+<itemref idref="Dedication"/>
+<itemref idref="Contents"/>
+<itemref idref="Chapter01"/>
+<itemref idref="Chapter02"/>
+<itemref idref="Chapter03"/>
+<itemref idref="Chapter04"/>
+<itemref idref="Chapter05"/>
+<itemref idref="Chapter06"/>
+<itemref idref="Chapter07"/>
+<itemref idref="Chapter08"/>
+<itemref idref="Chapter09"/>
+<itemref idref="Chapter10"/>
+<itemref idref="Chapter11"/>
+<itemref idref="Chapter12"/>
+<itemref idref="Chapter13"/>
+<itemref idref="Chapter14"/>
+<itemref idref="Chapter15"/>
+<itemref idref="Chapter16"/>
+<itemref idref="Chapter17"/>
+<itemref idref="Chapter18"/>
+<itemref idref="Chapter19"/>
+<itemref idref="Chapter20"/>
+<itemref idref="Chapter21"/>
+<itemref idref="Backmatter"/>
+<itemref idref="Backmatter01"/>
+<itemref idref="Backmatter03"/>
+<itemref idref="Backmatter03chapter01"/>
+<itemref idref="Backmatter04"/>
+<itemref idref="Backmatter04chapter01"/>
+<itemref idref="Backmatter05"/>
+<itemref idref="Backmatter05chapter01"/>
+<itemref idref="AbouttheAuthor"/>
+<itemref idref="credit"/>
+<itemref idref="Copyright"/>
+<itemref idref="AboutthePublisher"/>
+</spine>
+<guide>
+<reference href="xhtml/Cover.html" title="Cover" type="cover"/>
+<reference href="xhtml/Copyright.html" title="Copyright" type="copyright-page"/>
+<reference href="xhtml/Contents.html" title="Contents" type="toc"/>
+<reference href="xhtml/Title.html" title="Startup Page" type="text"/>
+</guide>
+</package>

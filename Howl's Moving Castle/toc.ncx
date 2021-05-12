@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="9780062244512"/>
+<meta name="dtb:depth" content="i"/>
+</head>
+<docTitle><text>Howl’s Moving Castle</text></docTitle>
+<docAuthor><text>Diana Wynne Jones</text></docAuthor>
+<navMap>
+<navPoint id="NCX-1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="xhtml/Cover.html"/></navPoint>
+<navPoint id="NCX-2" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="xhtml/Title.html"/></navPoint>
+<navPoint id="NCX-3" playOrder="3"><navLabel><text>Dedication</text></navLabel><content src="xhtml/Dedication.html"/></navPoint>
+<navPoint id="NCX-4" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="xhtml/Contents.html"/></navPoint>
+<navPoint id="NCX-5" playOrder="5"><navLabel><text>Chapter One: In which Sophie talks to hats</text></navLabel><content src="xhtml/Chapter01.html"/></navPoint>
+<navPoint id="NCX-6" playOrder="6"><navLabel><text>Chapter Two: In which Sophie is compelled to seek her fortune</text></navLabel><content src="xhtml/Chapter02.html"/></navPoint>
+<navPoint id="NCX-7" playOrder="7"><navLabel><text>Chapter Three: In which Sophie enters into a castle and a bargain</text></navLabel><content src="xhtml/Chapter03.html"/></navPoint>
+<navPoint id="NCX-8" playOrder="8"><navLabel><text>Chapter Four: In which Sophie discovers several strange things</text></navLabel><content src="xhtml/Chapter04.html"/></navPoint>
+<navPoint id="NCX-9" playOrder="9"><navLabel><text>Chapter Five: Which is far too full of washing</text></navLabel><content src="xhtml/Chapter05.html"/></navPoint>
+<navPoint id="NCX-10" playOrder="10"><navLabel><text>Chapter Six: In which Howl expresses his feelings with green slime</text></navLabel><content src="xhtml/Chapter06.html"/></navPoint>
+<navPoint id="NCX-11" playOrder="11"><navLabel><text>Chapter Seven: In which a scarecrow prevents Sophie from leaving the castle</text></navLabel><content src="xhtml/Chapter07.html"/></navPoint>
+<navPoint id="NCX-12" playOrder="12"><navLabel><text>Chapter Eight: In which Sophie leaves the castle in several directions at once</text></navLabel><content src="xhtml/Chapter08.html"/></navPoint>
+<navPoint id="NCX-13" playOrder="13"><navLabel><text>Chapter Nine: In which Michael has trouble with a spell</text></navLabel><content src="xhtml/Chapter09.html"/></navPoint>
+<navPoint id="NCX-14" playOrder="14"><navLabel><text>Chapter Ten: In which Calcifer promises Sophie a hint</text></navLabel><content src="xhtml/Chapter10.html"/></navPoint>
+<navPoint id="NCX-15" playOrder="15"><navLabel><text>Chapter Eleven: In which Howl goes to a strange country in search of a spell</text></navLabel><content src="xhtml/Chapter11.html"/></navPoint>
+<navPoint id="NCX-16" playOrder="16"><navLabel><text>Chapter Twelve: In which Sophie becomes Howl’s old mother</text></navLabel><content src="xhtml/Chapter12.html"/></navPoint>
+<navPoint id="NCX-17" playOrder="17"><navLabel><text>Chapter Thirteen: In which Sophie blackens Howl’s name</text></navLabel><content src="xhtml/Chapter13.html"/></navPoint>
+<navPoint id="NCX-18" playOrder="18"><navLabel><text>Chapter Fourteen: In which a Royal Wizard catches a cold</text></navLabel><content src="xhtml/Chapter14.html"/></navPoint>
+<navPoint id="NCX-19" playOrder="19"><navLabel><text>Chapter Fifteen: In which Howl goes to a funeral in disguise</text></navLabel><content src="xhtml/Chapter15.html"/></navPoint>
+<navPoint id="NCX-20" playOrder="20"><navLabel><text>Chapter Sixteen: In which there is a great deal of witchcraft</text></navLabel><content src="xhtml/Chapter16.html"/></navPoint>
+<navPoint id="NCX-21" playOrder="21"><navLabel><text>Chapter Seventeen: In which the moving castle moves house</text></navLabel><content src="xhtml/Chapter17.html"/></navPoint>
+<navPoint id="NCX-22" playOrder="22"><navLabel><text>Chapter Eighteen: In which the scarecrow and Miss Angorian reappear</text></navLabel><content src="xhtml/Chapter18.html"/></navPoint>
+<navPoint id="NCX-23" playOrder="23"><navLabel><text>Chapter Nineteen: In which Sophie expresses her feelings with weed-killer</text></navLabel><content src="xhtml/Chapter19.html"/></navPoint>
+<navPoint id="NCX-24" playOrder="24"><navLabel><text>Chapter Twenty: In which Sophie finds further difficulties in leaving the castle</text></navLabel><content src="xhtml/Chapter20.html"/></navPoint>
+<navPoint id="NCX-25" playOrder="25"><navLabel><text>Chapter Twenty-One: In which a contract is concluded before witnesses</text></navLabel><content src="xhtml/Chapter21.html"/></navPoint>
+<navPoint id="NCX-26" playOrder="26"><navLabel><text>Excerpt from The Merlin Conspiracy</text></navLabel><content src="xhtml/Backmatter03.html#backmatter03"/>
+<navPoint id="NCX-27" playOrder="27"><navLabel><text>Chapter One</text></navLabel><content src="xhtml/Backmatter03chapter01.html#backmatter03chapter01"/></navPoint></navPoint>
+<navPoint id="NCX-28" playOrder="28"><navLabel><text>Excerpt from Dark Lord of Derkholm</text></navLabel><content src="xhtml/Backmatter04.html#backmatter04"/>
+<navPoint id="NCX-29" playOrder="29"><navLabel><text>Chapter One</text></navLabel><content src="xhtml/Backmatter04chapter01.html#backmatter04chapter01"/></navPoint></navPoint>
+<navPoint id="NCX-30" playOrder="30"><navLabel><text>Excerpt from Archer’s Goon</text></navLabel><content src="xhtml/Backmatter05.html#backmatter05"/>
+<navPoint id="NCX-31" playOrder="31"><navLabel><text>Chapter One</text></navLabel><content src="xhtml/Backmatter05chapter01.html#backmatter05chapter01"/></navPoint></navPoint>
+<navPoint id="NCX-32" playOrder="32"><navLabel><text>About the Author</text></navLabel><content src="xhtml/AbouttheAuthor.html#ata"/></navPoint>
+<navPoint id="NCX-33" playOrder="33"><navLabel><text>Credits</text></navLabel><content src="xhtml/Credit.html#cre"/></navPoint>
+<navPoint id="NCX-34" playOrder="34"><navLabel><text>Copyright</text></navLabel><content src="xhtml/Copyright.html#copy"/></navPoint>
+<navPoint id="NCX-35" playOrder="35"><navLabel><text>About the Publisher</text></navLabel><content src="xhtml/AboutthePublisher.html#atp"/></navPoint>
+</navMap>
+</ncx>
