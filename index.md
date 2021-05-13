@@ -1,2 +1,2 @@
-<a href="HowlsMovingCastle/xhtml/Contents.html">HowlsMovingCastle</a>
-<a href="TheBees/text/">TheBees</a>
+<li><a href="HowlsMovingCastle/xhtml/Contents.html">HowlsMovingCastle</a></li>
+<li><a href="TheBees/text/">TheBees</a></li>
