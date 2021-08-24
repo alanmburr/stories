@@ -1,0 +1,10 @@
+title: Storied
+email: wackyblackie@outlook.com
+description: Copy of stories that we read, all from 1lib.us.
+github_username: wackyblackie
+gitlab_username: wackyblackie
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
