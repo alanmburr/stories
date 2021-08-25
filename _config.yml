@@ -1,8 +1,10 @@
-title: Storied
+title: Stories
 email: wackyblackie@outlook.com
 description: Copy of stories that we read, all from 1lib.us.
 github_username: wackyblackie
-gitlab_username: wackyblackie
+
+include: ['_pages']
+permalink: /:date.year/:date.month/:date.day/:title
 
 # Build settings
 theme: minima
