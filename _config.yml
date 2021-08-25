@@ -1,6 +1,6 @@
 title: Stories
 email: wackyblackie@outlook.com
-description: Copy of stories that we read, all from 1lib.us.
+description: Copy of stories we read, all from 1lib.us.
 github_username: wackyblackie
 
 include: ['_pages']
@@ -8,5 +8,3 @@ permalink: /:pubyear/:pubmonth/:pubday/:title
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
