@@ -4,7 +4,7 @@ description: Copy of stories that we read, all from 1lib.us.
 github_username: wackyblackie
 
 include: ['_pages']
-permalink: /:date.year/:date.month/:date.day/:title
+permalink: /:pubyear/:pubmonth/:pubday/:title
 
 # Build settings
 theme: minima
