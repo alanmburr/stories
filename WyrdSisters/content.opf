@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Corgi</dc:publisher>
+    <dc:description>SUMMARY: Witches Are Not By Nature Gregarious, And They Certainly Don T Have Leaders.Granny Weatherwax Was The Most Highly-Regarded Of The Leaders They Didn T Have.But Even She Found That Meddling In Royal Politics Was A Lot More Difficult Than Certain Playwrights Would Have You Believe&amp;Wyrd Sisters Is The Sixth Novel In The Discworld Sequence The Funniest Fantasy Series Ever.</dc:description>
+    <dc:language>en-GB</dc:language>
+    <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+    <meta name="calibre:timestamp" content="2011-03-05T16:01:43.780000+00:00"/>
+    <dc:title opf:file-as="Wyrd Sisters">Wyrd Sisters</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-02-08T02:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9781435274709</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d043bff0-45c4-4239-9ba5-c8691ed9e527</dc:identifier>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Fantasy:Humour</dc:subject>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>Discworld (Imaginary place)</dc:subject>
+    <dc:subject>Humorous</dc:subject>
+    <dc:subject>Fantasy fiction</dc:subject>
+    <dc:subject>English</dc:subject>
+    <dc:subject>Witches</dc:subject>
+    <dc:subject>Occult fiction</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="Wyrd_Sisters_split_000.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_001.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_002.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_003.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_004.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_005.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_006.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_007.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_008.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_009.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_010.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_011.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Wyrd_Sisters_split_012.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Wyrd_Sisters_split_012.html#filepos652325" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
